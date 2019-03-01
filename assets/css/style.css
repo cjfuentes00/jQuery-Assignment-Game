@@ -1,0 +1,17 @@
+#crystals {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.crystal {
+    border: 2px solid goldenrod;
+    height: 200px;
+    width: 200px;
+}
+
+image {
+    width: 50px
+}
+
